@@ -1,0 +1,8 @@
+{
+  "conexiones": [
+    {"src": "192.168.1.100", "dst": "203.0.113.50", "port": 443, "timestamp": "2026-05-01T09:15:00Z"},
+    {"src": "192.168.1.100", "dst": "198.51.100.25", "port": 22, "timestamp": "2026-05-01T09:30:00Z"}
+  ],
+  "alertas": 2,
+  "clasificacion": "sospechoso"
+}

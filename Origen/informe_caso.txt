@@ -1,0 +1,7 @@
+INFORME PRELIMINAR - CASO #2026-0508
+Fecha: 08 de mayo de 2026
+Analista: [Nombre del Alumno]
+
+Se procede a la recolección de evidencia digital del equipo
+identificado como MacBook Pro, Serial: XXXX-YYYY-ZZZZ.
+Se documentan los siguientes hallazgos preliminares...

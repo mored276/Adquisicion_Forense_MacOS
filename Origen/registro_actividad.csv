@@ -1,0 +1,5 @@
+timestamp,usuario,accion,archivo
+2026-05-01T08:30:00,admin,login,/var/log/auth.log
+2026-05-01T09:15:22,admin,download,documento_confidencial.pdf
+2026-05-01T09:45:10,admin,delete,registro_financiero.xlsx
+2026-05-01T10:00:05,admin,logout,/var/log/auth.log
